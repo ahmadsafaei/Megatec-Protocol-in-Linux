@@ -168,5 +168,3 @@ Error or Status Code: 00000001
 ```
 Acknowledgments
 For this project, I referred to documentation and protocols from public UPS resources like Network UPS Tools (NUT) ([link](https://networkupstools.org/)).
-
-This code is published exclusively on my LinkedIn page for the first time. I welcome your suggestions and critiques to guide me in future projects. Please like, comment, and share my page to support me in finding a suitable job and shaping my career path.
